@@ -8,8 +8,9 @@ cargo run
 
 ## Crew name
 
-_not chosen yet_
+_DS210-crew_
 
 ## Members
 
-- _nobody has signed on yet_
+- _ishita_
+- _

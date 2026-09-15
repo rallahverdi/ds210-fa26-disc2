@@ -6,10 +6,10 @@ A very small Rust program, used in CDS 210 discussion 2 to practice working on o
 cargo run
 ```
 
-## Crew name
+## DS210
 
 _not chosen yet_
 
-## Members
+## Rafael
 
 - _nobody has signed on yet_

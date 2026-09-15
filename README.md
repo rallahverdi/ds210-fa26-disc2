@@ -6,11 +6,11 @@ A very small Rust program, used in CDS 210 discussion 2 to practice working on o
 cargo run
 ```
 
-## Crew name
+## DS210
 
 _DS210-crew_
 
-## Members
+## Rafael
 
 - _ishita_
 - _rafael_
